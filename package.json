@@ -51,7 +51,7 @@
     "serve-favicon": "^2.2.0",
     "stable": "^0.1.5",
     "strong-globalize": "^2.6.2",
-    "strong-remoting": "https://github.com/istrada/strong-remoting.git#current_context",
+    "strong-remoting": "git@github.com:istrada/strong-remoting.git#current_context",
     "uid2": "0.0.3",
     "underscore.string": "^3.0.3"
   },
